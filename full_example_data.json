@@ -1,0 +1,469 @@
+{
+  "wallet": "0x982116545d53F954Ac348694CB1a8cF45269bBf0",
+  "transactions_processed": 10,
+  "actions_found": 50,
+  "event_counts": {
+    "IncreaseLiquidity": 25,
+    "DecreaseLiquidity": 25
+  },
+  "actions": [
+    {
+      "timestamp": "2025-09-04T13:45:25+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 24623109,
+      "cbbtc": 0.00207616,
+      "usdc": 1641.793994,
+      "cash_flow": -1840.1531465514404,
+      "tx": "0x302b346784141a86351ebe7a96bbebc726a3f4bf0a3e43e63aa0c170863efb2c"
+    },
+    {
+      "timestamp": "2025-09-04T15:20:13+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 24623109,
+      "cbbtc": 0.01698706,
+      "usdc": 0.0,
+      "cash_flow": 1624.0230220449203,
+      "tx": "0x859b7ffabf3c3711ab33f73fc93bf67052ee44c0b69542dd0144184519940894"
+    },
+    {
+      "timestamp": "2025-09-04T15:20:35+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 24631504,
+      "cbbtc": 0.00973749,
+      "usdc": 779.894651,
+      "cash_flow": -1710.8354798210842,
+      "tx": "0x50cba4d4133457404c19799e48723dbb61342ab8b0053fc7b01cd44ffeec3a28"
+    },
+    {
+      "timestamp": "2025-09-04T22:30:11+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 24631504,
+      "cbbtc": 0.0,
+      "usdc": 1851.883658,
+      "cash_flow": 1851.883658,
+      "tx": "0x3e447309a3609eae17ea24c16641408aa9f3c504426028cae834098c8c4c5f16"
+    },
+    {
+      "timestamp": "2025-09-04T22:30:29+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 24665233,
+      "cbbtc": 0.00790345,
+      "usdc": 1123.841292,
+      "cash_flow": -1881.6693937559478,
+      "tx": "0x6d3d95202b4bfa804e6074bd53396ea4692ab175cff599684bac214c19502fb8"
+    },
+    {
+      "timestamp": "2025-09-05T07:00:11+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 24665233,
+      "cbbtc": 0.0,
+      "usdc": 2003.895919,
+      "cash_flow": 2003.895919,
+      "tx": "0xd66c69fc369fce1d58bd2f6c1112b5902b6da3e2b5725a2f65814f699450c13f"
+    },
+    {
+      "timestamp": "2025-09-05T07:00:33+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 24700852,
+      "cbbtc": 0.008253,
+      "usdc": 1074.021403,
+      "cash_flow": -1868.1272758993055,
+      "tx": "0xce9e81be9049d53a868a857afc67ecd5a9c79959a14e0ab3c5d6c49e3b0db16e"
+    },
+    {
+      "timestamp": "2025-09-05T08:00:13+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 24700852,
+      "cbbtc": 0.0,
+      "usdc": 2002.008081,
+      "cash_flow": 2002.008081,
+      "tx": "0xd37c43fe595c1e428dd97d5eaa6a1b1a163d483340b1cbd7c2d558fbbc9a32b5"
+    },
+    {
+      "timestamp": "2025-09-05T08:00:31+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 24706500,
+      "cbbtc": 0.00882086,
+      "usdc": 1002.477488,
+      "cash_flow": -1851.5699266942001,
+      "tx": "0x7a52e5b6f18987418baf267209751ba8df87fc6be7111040c60ee1a4892e5d7c"
+    },
+    {
+      "timestamp": "2025-09-05T14:20:15+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 24706500,
+      "cbbtc": 0.01773956,
+      "usdc": 0.0,
+      "cash_flow": 1712.0210159386575,
+      "tx": "0xee2981b7577978a7e6a11fd58cf5c0b67dc0bed1ed2245f10ec654ee8c5c007a"
+    },
+    {
+      "timestamp": "2025-09-05T14:40:23+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 24737600,
+      "cbbtc": 0.008731,
+      "usdc": 974.458314,
+      "cash_flow": -1817.190641817001,
+      "tx": "0x2a638d71140b743d9d7c238fddcec2f72971d70f77dc10339acb6330f6d76924"
+    },
+    {
+      "timestamp": "2025-09-08T09:10:11+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 24737600,
+      "cbbtc": 0.0,
+      "usdc": 1946.077441,
+      "cash_flow": 1946.077441,
+      "tx": "0xe879ed8fadce3187ef4ca691e5e46309c3a8858278ff5fc1a4b136f290be697d"
+    },
+    {
+      "timestamp": "2025-09-08T09:10:29+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 24962130,
+      "cbbtc": 0.00877728,
+      "usdc": 1019.381456,
+      "cash_flow": -1889.5506387771604,
+      "tx": "0x04afab06eb0d70ac34a3c203a0e35bc2d85a6977fa198a22cb04f5e665aaefab"
+    },
+    {
+      "timestamp": "2025-09-09T06:50:07+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 24962130,
+      "cbbtc": 0.00027869,
+      "usdc": 1974.562188,
+      "cash_flow": 2002.4287363809863,
+      "tx": "0x0f46876aa1e3960e72f769e71fff8db85b0ebfeab16089a51486d33f658a023e"
+    },
+    {
+      "timestamp": "2025-09-09T06:50:31+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 25056967,
+      "cbbtc": 0.00886754,
+      "usdc": 968.649223,
+      "cash_flow": -1855.3275421496785,
+      "tx": "0x9a5f622846a0c4ffd0307416b7d1142eab55339eea56fb34fbb0adaac467168a"
+    },
+    {
+      "timestamp": "2025-09-09T14:40:09+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 25056967,
+      "cbbtc": 0.01748613,
+      "usdc": 0.0,
+      "cash_flow": 1753.8497653715856,
+      "tx": "0x705f9c3216c6f904aa20a6d022bfa4fd5723fc32c8b239472ee991069a3c241f"
+    },
+    {
+      "timestamp": "2025-09-09T14:40:23+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 25090218,
+      "cbbtc": 0.00900424,
+      "usdc": 973.775132,
+      "cash_flow": -1876.8971096246398,
+      "tx": "0x6c05360f5ad1303ab5fa8c0402b29cb97b3756f72b2541f632d9dd488498d294"
+    },
+    {
+      "timestamp": "2025-09-10T12:40:09+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 25090218,
+      "cbbtc": 0.0,
+      "usdc": 1985.766713,
+      "cash_flow": 1985.766713,
+      "tx": "0xd1b8a588476e2a95afacf8511388a744a565142ff06a59f4b53a180d1cf1648e"
+    },
+    {
+      "timestamp": "2025-09-10T13:20:23+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 25173740,
+      "cbbtc": 0.00723887,
+      "usdc": 1139.287087,
+      "cash_flow": -1871.7999928218685,
+      "tx": "0x160d1da3014ba1f80d455efc9641ddaeb204b81a61193a1058e3d6557268fbc8"
+    },
+    {
+      "timestamp": "2025-09-10T13:50:09+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 25173740,
+      "cbbtc": 0.0,
+      "usdc": 1963.502859,
+      "cash_flow": 1963.502859,
+      "tx": "0x919569d59826ccfd4ad203ecf6559dc1a020b31bb54b955f3d64ff9f67fdf74d"
+    },
+    {
+      "timestamp": "2025-09-10T13:50:31+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 25176585,
+      "cbbtc": 0.00725851,
+      "usdc": 1079.300533,
+      "cash_flow": -1813.9442946825939,
+      "tx": "0x8e3a7e995af0df2fd6cd42ad2452dde94e0d853b2638819de5c1a0914e950387"
+    },
+    {
+      "timestamp": "2025-09-11T22:50:09+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 25176585,
+      "cbbtc": 0.0,
+      "usdc": 1912.184086,
+      "cash_flow": 1912.184086,
+      "tx": "0xcf94739ffc227f5982bfe888f57c4e8c49b92a17f9129e7b4c6b71835dc09c18"
+    },
+    {
+      "timestamp": "2025-09-11T22:50:29+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 25313808,
+      "cbbtc": 0.0082758,
+      "usdc": 1045.930721,
+      "cash_flow": -1894.2826650389661,
+      "tx": "0xb3d2d5e7ca5fa3f641cd27c4883202fce45903959875cdbd7c28fef24c134c58"
+    },
+    {
+      "timestamp": "2025-09-12T18:40:09+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 25313808,
+      "cbbtc": 0.0,
+      "usdc": 2004.677171,
+      "cash_flow": 2004.677171,
+      "tx": "0x57db6f22a0c035f958eb726d0afd64273d72db4d050259e417542deff0e8ae03"
+    },
+    {
+      "timestamp": "2025-09-12T18:40:29+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 25408683,
+      "cbbtc": 0.00766215,
+      "usdc": 1107.01992,
+      "cash_flow": -1898.4467683538774,
+      "tx": "0x8bda0b7bf25ec99d540eb32a1f7b8f72c585c9eed258f5204afb08d8113ce0ea"
+    },
+    {
+      "timestamp": "2025-09-15T00:10:07+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 25408683,
+      "cbbtc": 0.01721488,
+      "usdc": 0.0,
+      "cash_flow": 1814.3712990295267,
+      "tx": "0x491e1a60d4852a9232b02de1a287b671a46b407715d9b8bf76de1fefd496be9b"
+    },
+    {
+      "timestamp": "2025-09-15T00:10:25+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 25621493,
+      "cbbtc": 0.00929171,
+      "usdc": 809.939398,
+      "cash_flow": -1789.2458709853074,
+      "tx": "0xf47f31b9802480ef35f5bf865bc367ad0a3e1b38f17f9575e12c48ff28548eba"
+    },
+    {
+      "timestamp": "2025-09-15T05:40:09+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 25621493,
+      "cbbtc": 0.0,
+      "usdc": 1885.38778,
+      "cash_flow": 1885.38778,
+      "tx": "0x85f06f728ead9abaee7a538a3b15bde386d4dc32300a488e3a0f7ae975352c24"
+    },
+    {
+      "timestamp": "2025-09-15T05:40:29+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 25646454,
+      "cbbtc": 0.00853196,
+      "usdc": 1006.800481,
+      "cash_flow": -1907.8795444981224,
+      "tx": "0x312d92dcd7b4e9d40b4be196d42635695a1e36b2700b06aac04f9cf104f94589"
+    },
+    {
+      "timestamp": "2025-09-15T08:50:09+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 25646454,
+      "cbbtc": 0.01722424,
+      "usdc": 0.0,
+      "cash_flow": 1821.2324941131174,
+      "tx": "0xb8b72a43b0a88f73740a65a6a827cff627fb1efe1902638044c1cc90481fa909"
+    },
+    {
+      "timestamp": "2025-09-15T08:50:31+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 25663201,
+      "cbbtc": 0.00950422,
+      "usdc": 897.51084,
+      "cash_flow": -1902.4569893260932,
+      "tx": "0x4109ae40f1194a8750ada5f43b79475632a0fc6aa020ea97736444047df77fb8"
+    },
+    {
+      "timestamp": "2025-09-16T17:20:09+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 25663201,
+      "cbbtc": 0.0,
+      "usdc": 1997.772219,
+      "cash_flow": 1997.772219,
+      "tx": "0xf115854b3d5c459e9a00992d067e6e19db5bb49a63e984e0175af79770790c4b"
+    },
+    {
+      "timestamp": "2025-09-16T17:20:29+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 25807648,
+      "cbbtc": 0.01325144,
+      "usdc": 449.211271,
+      "cash_flow": -1867.3240492509774,
+      "tx": "0x4e7f31e4f821413bd9a9a7e30ab1046ad35e92b7f15fae1ca063b8bd59e820b6"
+    },
+    {
+      "timestamp": "2025-09-16T18:40:09+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 25807648,
+      "cbbtc": 0.01710618,
+      "usdc": 0.0,
+      "cash_flow": 1831.5244736403936,
+      "tx": "0x2ab5884de486a25f3a63960f6bf0e1f8fb0e6df056d4d3e8740d4c26926d91c5"
+    },
+    {
+      "timestamp": "2025-09-16T18:40:29+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 25815112,
+      "cbbtc": 0.00870351,
+      "usdc": 986.909739,
+      "cash_flow": -1918.7790470956984,
+      "tx": "0x51b4ec553f7bb9b266b023d39298f25d760601a34c14cbeb0d86210ac9488221"
+    },
+    {
+      "timestamp": "2025-09-17T18:50:09+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 25815112,
+      "cbbtc": 0.01722491,
+      "usdc": 0.0,
+      "cash_flow": 1860.6175998078897,
+      "tx": "0xb8dbdc3001e32cb18d9785cf02a5947eee13dfc85f2cff708fd22b81450d0016"
+    },
+    {
+      "timestamp": "2025-09-17T19:00:23+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 25921935,
+      "cbbtc": 0.0087074,
+      "usdc": 918.285826,
+      "cash_flow": -1858.9089313712707,
+      "tx": "0x558935848fb3fdbc12a605509ddccc14e9087af8d25722f0f2020b8c53fab107"
+    },
+    {
+      "timestamp": "2025-09-17T23:00:09+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 25921935,
+      "cbbtc": 0.0,
+      "usdc": 1926.579056,
+      "cash_flow": 1926.579056,
+      "tx": "0x9f285064c6ab4903dd73e29a4959ab6a05e5f56060eef6b9b9277d41bd21c063"
+    },
+    {
+      "timestamp": "2025-09-17T23:00:31+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 25945019,
+      "cbbtc": 0.00911971,
+      "usdc": 451.1453,
+      "cash_flow": -1437.7447950791989,
+      "tx": "0x01c33095ba3bd90ff2faca3ce590b12f5bff288f0ccb92f2e479dca83fdba5c2"
+    },
+    {
+      "timestamp": "2025-09-18T00:10:07+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 25945019,
+      "cbbtc": 0.01282427,
+      "usdc": 19.252113,
+      "cash_flow": 1407.2082018542503,
+      "tx": "0x7acbe8b904e3109b946a273ae83c484b550690a4fbea6916d627b98ad6b1817e"
+    },
+    {
+      "timestamp": "2025-09-18T00:10:31+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 25951732,
+      "cbbtc": 0.00848158,
+      "usdc": 980.410068,
+      "cash_flow": -1898.364005297235,
+      "tx": "0x306b9df235ec30799dad657d003f057ee615a43359fa156e1ef566d876fce4cb"
+    },
+    {
+      "timestamp": "2025-09-18T03:20:09+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 25951732,
+      "cbbtc": 0.0,
+      "usdc": 1972.626249,
+      "cash_flow": 1972.626249,
+      "tx": "0xfbaf8f35f8ff98abc882691c4e0b49affaae8ccd24f1b4fdb01c2d7fb038cfa2"
+    },
+    {
+      "timestamp": "2025-09-18T03:20:29+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 25968345,
+      "cbbtc": 0.00746859,
+      "usdc": 1111.248194,
+      "cash_flow": -1920.4976443747878,
+      "tx": "0x714ebfbe108b4e6ffa894a506dc862bc8604a6da63d968bd4a71e8931205877b"
+    },
+    {
+      "timestamp": "2025-09-19T11:50:09+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 25968345,
+      "cbbtc": 0.01696194,
+      "usdc": 0.0,
+      "cash_flow": 1859.5786764177083,
+      "tx": "0xb347fabcf059afbb7ba5128a2a0b557da295dec62dbf6f0055ca56577ccb6caa"
+    },
+    {
+      "timestamp": "2025-09-19T11:50:29+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 26118583,
+      "cbbtc": 0.00867867,
+      "usdc": 990.065852,
+      "cash_flow": -1941.5314186913001,
+      "tx": "0x084de423bbb8c02c523273f40218c7b03447f3c64bbd77ebc3b96de31a1c812d"
+    },
+    {
+      "timestamp": "2025-09-19T19:50:09+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 26118583,
+      "cbbtc": 0.01721161,
+      "usdc": 1.796637,
+      "cash_flow": 1894.1657116877122,
+      "tx": "0xd556bdbf2601d0ae65bc05011f10980886fcb7bd2bbadf5b24c0624d63877f8b"
+    },
+    {
+      "timestamp": "2025-09-19T19:50:31+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 26157272,
+      "cbbtc": 0.00866195,
+      "usdc": 1001.313903,
+      "cash_flow": -1953.6735113832626,
+      "tx": "0x335631870b8b7cdb40577afadbe7158977a72930a55359f80b740afeb903019d"
+    },
+    {
+      "timestamp": "2025-09-22T06:56:53+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 26157272,
+      "cbbtc": 0.01739398,
+      "usdc": 0.0,
+      "cash_flow": 1948.12576,
+      "tx": "0xb36db6bf72b8f8bb43fa78dc4e7732a93eea5ac255142d625e1cadfee656fd48"
+    },
+    {
+      "timestamp": "2025-09-22T06:57:15+00:00",
+      "event": "IncreaseLiquidity",
+      "token_id": 26353885,
+      "cbbtc": 0.01749444,
+      "usdc": 0.0,
+      "cash_flow": -1959.37728,
+      "tx": "0x2ffd1acdade3bb23b3f0a63c3825fc64994c43e05859180fe62d75044736db46"
+    },
+    {
+      "timestamp": "2025-09-22T07:00:09+00:00",
+      "event": "DecreaseLiquidity",
+      "token_id": 26353885,
+      "cbbtc": 0.01749443,
+      "usdc": 0.0,
+      "cash_flow": 1959.37616,
+      "tx": "0xa28af582814cd59dd0be2a432366938384feb5a02084e7a4881384d0dd545fbc"
+    }
+  ],
+  "summary": {
+    "total_outflow": 46425.57796334102,
+    "total_inflow": 46940.88414828675,
+    "net": 515.3061849457305,
+    "xirr": 42790.40140520843
+  },
+  "start_block": 35102089,
+  "end_block": 35867540
+}

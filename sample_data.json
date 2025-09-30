@@ -1,0 +1,31 @@
+{
+  "wallet": "0xYourWalletAddress",
+  "start_block": 35102089,
+  "end_block": 35867540,
+  "actions": [
+    {
+      "timestamp": "2025-09-04T10:30:00+00:00",
+      "event": "IncreaseLiquidity",
+      "cbbtc": 0.00207616,
+      "usdc": 1641.79,
+      "cash_flow": -1840.15,
+      "tx": "0x302b3467..."
+    },
+    {
+      "timestamp": "2025-09-04T14:45:00+00:00",
+      "event": "DecreaseLiquidity",
+      "cbbtc": 0.00195000,
+      "usdc": 1700.00,
+      "cash_flow": 1895.50,
+      "tx": "0x4a5b6c7d..."
+    },
+    {
+      "timestamp": "2025-09-04T14:50:00+00:00",
+      "event": "IncreaseLiquidity",
+      "cbbtc": 0.00200000,
+      "usdc": 1650.00,
+      "cash_flow": -1850.00,
+      "tx": "0x8e9f0a1b..."
+    }
+  ]
+}
